@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a collection of TIL and other [obsidian](https://obsidian.md/) posts linked together in a digital garden[digital gardens](https://jzhao.xyz/posts/networked-thought). It is built using [quartz](https://quartz.jzhao.xyz).
