@@ -11,12 +11,13 @@ Claude has a simpler approach than how OpenAI does it. OpenAI uses AI-generated 
 It's good to see that OpenAI and Claude both have incognito/temporary chat modes which don't save that chat to your history or memory.
 
 > "This chat won't appear in history, use or update ChatGPT's memory, or be used to train our models. For safety purposes, we may keep a copy of this chat for up to 30 days." 
-- OpenAI
+> - ChatGPT from OpenAI
 
-> "Incognito chats aren’t saved to history or used to train models. [Learn more](https://privacy.claude.com/en/articles 10023580-is-my-data-used-for-model-training) about how your data is used."
-- Claude
+> "Incognito chats aren’t saved to history or used to train models. [Learn more](https://support.claude.com/en/articles/11817273-using-claude-s-chat-search-and-memory-to-build-on-previous-context) about how your data is used."
+> - Claude from Anthropic
 
-## Official documentation
+
+## Official doc pages
 
 This led me the the [doc page](https://support.claude.com/en/articles/11817273-using-claude-s-chat-search-and-memory-to-build-on-previous-context) from Claude and [doc page](https://help.openai.com/en/articles/8590148-memory-faq) from OpenAI on this topic just to confirm.
 
@@ -29,5 +30,5 @@ This post was great to show me how different LLM providers are approaching memor
 - [Simon Willison's blog post on Claude memory](https://simonwillison.net/2025/Sep/12/claude-memory/)
 - [Claude's doc on chat search and memory](https://support.claude.com/en
 /articles/11817273-using-claude-s-chat-search-and-memory-to-build-on-previous-context)
-- [OpenAI's doc on memory FAQ](https://help.openai.com/en/articles/
+- [OpenAI's Memory FAQ](https://help.openai.com/en/articles/
 8590148-memory-faq)
