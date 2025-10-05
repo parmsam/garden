@@ -4,7 +4,7 @@ I recently stumbled upon a [blog post](https://simonwillison.net/2025/Sep/12/cla
 
 ## Comparison with OpenAI
 
-Claude has a simpler approach than how OpenAI does it. OpenAI uses AI-generated summaries (which they call "memories") of past conversations in combination with recent chats. They even let you manage the saved memories in the [personalization section](https://chatgpt.com/#settings/Personalization) of their settings. It seems like Claude might also be moving toward this approach in the future.
+Claude has a simpler approach than how OpenAI does it. OpenAI uses AI-generated summaries (which they call "[memories](https://help.openai.com/en/articles/8983136-what-is-memory)") of past conversations in combination with recent chats. They even let you manage the saved memories in the [personalization section](https://chatgpt.com/#settings/Personalization) of their settings. It seems like Claude might also be moving toward this approach in the future.
 
 ## How memory works in privacy modes
 
