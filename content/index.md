@@ -9,3 +9,4 @@ Here's the [Github repo](https://github.com/parmsam/garden) if you're interested
 Here are my TILs:
 
 - [How Claude handles memory via tool calls](claude-memory.md) - Sunday, October 5, 2025
+- [What is an Agent?](what-is-an-agent.md) - Monday, October 6, 2025
