@@ -10,4 +10,4 @@ Here are my TILs:
 
 - [How Claude handles memory via tool calls](claude-memory.md) - Sunday, October 5, 2025
 - [What is an Agent?](what-is-an-agent.md) - Monday, October 6, 2025
-- [SolveIt's counter to vibe coding](solveit-learning-approach.md) - Tuesday, October 7, 2025
+- [The SolveIt Method](solve-it.md) - Tuesday, October 7, 2025
