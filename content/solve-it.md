@@ -1,4 +1,4 @@
-# TIL: The Solveit Method - Learning by Building in Small Steps
+# The Solveit Method
 
 I was part of the first Solveit cohort last year, and I'm writing this TIL to share how its learning approach fundamentally differs from other AI coding tools.
 
