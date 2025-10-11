@@ -16,6 +16,14 @@ The Solveit method recognizes that LLMs have specific properties that cause thes
 
 For a detailed breakdown of the three LLM properties that cause the "doom loop" and specific techniques to address each one, Rens Dimmendaal's post is excellent.[^2]
 
+The framwork has four main components:
+- Understand the Problem
+- Devise a Plan
+- Carry Out the Plan
+- Look Back and Reflect
+
+See this gist from Jeremy Howard for more insights on the Solveit method.[^3]
+
 ## The Real Value
 
 When tackling hard problems, working in small steps lets you learn and adapt your approach as you go. You're not just getting code—you're understanding the problem space and refining your questions along the way.
@@ -28,3 +36,4 @@ I think the genuine value of AI tools will come from those that help us learn an
 
 [^1]: Howard, J. (2024). "How To Solve It With Code." https://solve.it.com/
 [^2]: Dimmendaal, R. (2024). "Solveit Course: Key Take-Aways." http://rensdimmendaal.com/posts/solveit-course-key-take-aways
+[^3]: Howard, J. (2024). "Solveit Method Gist." https://gist.github.com/jph00/d60301884c56fe063101a7cc6193b3af
