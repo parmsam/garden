@@ -11,3 +11,5 @@ Here are my TILs:
 - [How Claude handles memory via tool calls](claude-memory.md) - Sunday, October 5, 2025
 - [What is an Agent?](what-is-an-agent.md) - Monday, October 6, 2025
 - [The SolveIt Method](solve-it.md) - Tuesday, October 7, 2025
+- [Always Invite AI Principle](always-invite-ai-principle.md) - Saturday, October 11, 2025
+- [Worst AI Principle](worst-ai-principle.md) - Sunday, October 12, 2025
